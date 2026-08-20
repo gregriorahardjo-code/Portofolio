@@ -15,15 +15,6 @@ export default function DedMlModel() {
           Additive Manufacturing Machine Learning Model
         </h1>
 
-        <a
-          href="/DED%20Machine%20Learning%20Model.zip"
-          download
-          className="btn primary"
-          style={{ marginBottom: "2.5rem", display: "inline-flex" }}
-        >
-          download project files (.zip) ↓
-        </a>
-
         <PdfEmbed title="NSF Challenge" src="/NSF%20Challenge.pdf" />
         <PdfEmbed title="Technical report" src="/Gregorio_Report.pdf" />
       </div>

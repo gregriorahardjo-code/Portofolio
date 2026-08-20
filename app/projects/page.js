@@ -20,7 +20,7 @@ const projects = [
     summary:
       "NSF FMRG Data Challenge — probabilistic ML pipeline for laser track geometry prediction in directed energy deposition.",
     href: "/projects/ded-ml-model",
-    specs: [{ label: "includes", value: "report + code (.zip)" }],
+    specs: [{ label: "includes", value: "report" }],
   },
 ];
 

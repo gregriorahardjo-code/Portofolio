@@ -129,11 +129,10 @@ export default function Home() {
           <div>
             <h1 style={{ fontSize: "2.6rem", marginBottom: "0.6rem" }}>Gregorio Rahardjo</h1>
             <p className="eyebrow" style={{ marginBottom: "1.5rem" }}>
-              U.S. Citizen · Secret Clearance
+              U.S. Citizen
             </p>
             <p className="muted" style={{ maxWidth: "40ch", marginBottom: "1.75rem" }}>
-              Mechanical Engineering student at Texas A&amp;M University,
-              focused on manufacturing optimization and material analysis.
+              Mechanical Engineering student at Texas A&amp;M University.
             </p>
             <div style={{ display: "flex", gap: "0.75rem" }}>
               <a href="/projects" className="btn primary">
